@@ -564,6 +564,10 @@ For support and questions:
 - [ ] Database sharding
 - [ ] Caching layer
 
+## Contact
+
+For any questions, please contact Aditya Nikam at adityanikam9502@gmail.com.
+
 ---
 
 **Note**: This application is for educational and demonstration purposes. Always consult with healthcare professionals for medical advice based on blood test results.
