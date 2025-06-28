@@ -13,15 +13,15 @@ A comprehensive AI-powered blood test analysis system built with CrewAI that pro
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Architecture](#architecture)
-- [Bugs Found and Fixed](#bugs-found-and-fixed)
-- [Setup and Installation](#setup-and-installation)
-- [Usage Instructions](#usage-instructions)
-- [API Documentation](#api-documentation)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
+- Overview
+- Architecture
+- Bugs Found and Fixed
+- Setup and Installation
+- Usage Instructions
+- API Documentation
+- Tech Stack
+- Project Structure
+- Contributing
 
 ## 🎯 Overview
 
